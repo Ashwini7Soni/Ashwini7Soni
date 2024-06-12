@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwini Soni
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack Development
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently working as a Data Engineer
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me soniashwini259@gmail.com
 
